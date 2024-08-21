@@ -1,0 +1,9 @@
+streamlit==1.34
+llama-index
+nbconvert
+ipython
+llama-index-llms-ollama
+llama-index-embeddings-langchain
+langchain-community
+sentence_transformers
+llama-index-llms-huggingface
